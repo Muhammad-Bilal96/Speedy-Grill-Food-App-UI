@@ -18,23 +18,23 @@ This project demonstrates a complete burger ordering experience from browsing th
 </p>
 
 <p align="center">
+  <img src="ScreenShots/product 5" width="42%" style="margin:20px;">
   <img src="ScreenShots/5.png" width="42%" style="margin:20px;">
+</p>
+
+<p align="center">
   <img src="ScreenShots/6.png" width="42%" style="margin:20px;">
-</p>
-
-<p align="center">
   <img src="ScreenShots/7.png" width="42%" style="margin:20px;">
+</p>
+
+<p align="center">
   <img src="ScreenShots/8.png" width="42%" style="margin:20px;">
-</p>
-
-<p align="center">
   <img src="ScreenShots/9.png" width="42%" style="margin:20px;">
-  <img src="ScreenShots/10.png" width="42%" style="margin:20px;">
 </p>
 
 <p align="center">
-  <img src="ScreenShots/11.png" width="42%" style="margin:20px;">
-  <img src="ScreenShots/12.png" width="42%" style="margin:20px;">
+  <img src="ScreenShots/User profile.png" width="42%" style="margin:20px;">
+  <img src="ScreenShots/Customer support" width="42%" style="margin:20px;">
 </p>
 
 ---
