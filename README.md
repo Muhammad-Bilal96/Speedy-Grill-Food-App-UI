@@ -1,11 +1,14 @@
-# Speedy-Grill-Food-App-UI
+# 🍔 Speedy Grill – Food Ordering Mobile App UI
 
-Mobile UI design for a burger food ordering application with modern layout, food visuals, and smooth user navigation.
+Modern **food ordering mobile app UI/UX design** focused on a clean interface, smooth navigation, and attractive food visuals.  
+This project demonstrates a complete burger ordering experience from browsing the menu to placing an order.
 
-## 📱 App Screens
+---
+
+## 📸 UI Preview
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/41b62050-48a7-4a49-a78d-ea71b0c91916" width="42%" style="margin:40px;">
+  <img src="https://github.com/user-attachments/assets/41b62050-48a7-4a49-a78d-ea71b0c91916" width="42%" style="margin:20px;">
   <img src="https://github.com/user-attachments/assets/e917dbe5-0bee-4948-9707-9c0d94517ee4" width="42%" style="margin:20px;">
 </p>
 
@@ -34,13 +37,45 @@ Mobile UI design for a burger food ordering application with modern layout, food
   <img src="https://github.com/user-attachments/assets/4822b129-f0fd-4a8c-8126-e21bfcd4ac54" width="42%" style="margin:20px;">
 </p>
 
-## 🚀 Features
-- Modern mobile UI design
-- Burger browsing menu
-- Food customization
-- Order summary and payment
-- User profile and chat support
+---
+
+## ✨ Features
+
+- 🍔 Burger menu browsing
+- 🎨 Modern and clean UI design
+- ⚙️ Food customization options
+- 💳 Order summary and payment screen
+- 💬 Customer support chat interface
+- 👤 User profile management
+
+---
+
+## 📱 Screens Included
+
+- Splash Screen  
+- Home Screen  
+- Burger Details  
+- Customization Screen  
+- Order Summary  
+- Payment Screen  
+- Order Success Screen  
+- Chat Support  
+- User Profile  
+
+---
 
 ## 🛠 Tools Used
-- Figma
-- UI/UX Design Principles
+
+- Figma  
+- UI/UX Design Principles  
+- Mobile Interface Design  
+
+---
+
+## 📌 Project Purpose
+
+This project was created to practice and showcase **mobile UI/UX design skills** by designing a modern food ordering application interface.
+
+---
+
+⭐ If you like this project, feel free to star the repository.
