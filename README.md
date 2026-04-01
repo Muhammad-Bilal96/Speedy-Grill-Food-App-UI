@@ -70,6 +70,16 @@ This project demonstrates a complete burger ordering experience from browsing th
 
 ---
 
+## 🛠 Plugins Used
+
+- Canned Style
+- Iconify
+- Freepik
+- Content Reel
+- Pixabay
+
+---
+
 ## 📌 Project Purpose
 
 This project was created to practice and showcase **mobile UI/UX design skills** by designing a modern food ordering application interface.
