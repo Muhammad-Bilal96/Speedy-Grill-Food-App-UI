@@ -7,13 +7,13 @@ Mobile UI design for a burger food ordering application with modern layout, food
 ## 📱 App Screens
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/41b62050-48a7-4a49-a78d-ea71b0c91916" width="50%">
-  <img src="https://github.com/user-attachments/assets/e917dbe5-0bee-4948-9707-9c0d94517ee4" width="50%">
+  <img src="https://github.com/user-attachments/assets/41b62050-48a7-4a49-a78d-ea71b0c91916" width="40%">
+  <img src="https://github.com/user-attachments/assets/e917dbe5-0bee-4948-9707-9c0d94517ee4" width="40%">
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b4c059cc-eac6-4670-873e-62c11047fdfb" width="50%">
-  <img src="https://github.com/user-attachments/assets/dc48f32e-a334-4fdd-bc0d-f24880f76687" width="50%">
+  <img src="https://github.com/user-attachments/assets/b4c059cc-eac6-4670-873e-62c11047fdfb" width="40%">
+  <img src="https://github.com/user-attachments/assets/dc48f32e-a334-4fdd-bc0d-f24880f76687" width="40%">
 </p>
 
 <p align="center">
