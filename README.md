@@ -66,9 +66,7 @@ This project demonstrates a complete burger ordering experience from browsing th
 
 ## 🛠 Tools Used
 
-- Figma  
-- UI/UX Design Principles  
-- Mobile Interface Design  
+- Figma    
 
 ---
 
