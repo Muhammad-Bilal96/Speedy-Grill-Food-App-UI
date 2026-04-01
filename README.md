@@ -18,7 +18,7 @@ This project demonstrates a complete burger ordering experience from browsing th
 </p>
 
 <p align="center">
-  <img src="ScreenShots/product 5" width="42%" style="margin:20px;">
+  <img src="ScreenShots/product 5.png" width="42%" style="margin:20px;">
   <img src="ScreenShots/5.png" width="42%" style="margin:20px;">
 </p>
 
@@ -34,7 +34,7 @@ This project demonstrates a complete burger ordering experience from browsing th
 
 <p align="center">
   <img src="ScreenShots/User profile.png" width="42%" style="margin:20px;">
-  <img src="ScreenShots/Customer support" width="42%" style="margin:20px;">
+  <img src="ScreenShots/Customer support.png" width="42%" style="margin:20px;">
 </p>
 
 ---
