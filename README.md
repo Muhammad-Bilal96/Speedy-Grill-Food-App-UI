@@ -8,6 +8,11 @@ This project demonstrates a complete burger ordering experience from browsing th
 ## 📸 UI Preview
 
 <p align="center">
+  <img src="ScreenShots/1.png" width="42%" style="margin:20px;">
+  <img src="ScreenShots/2.png" width="42%" style="margin:20px;">
+</p>
+
+<p align="center">
   <img src="https://github.com/user-attachments/assets/41b62050-48a7-4a49-a78d-ea71b0c91916" width="42%" style="margin:20px;">
   <img src="https://github.com/user-attachments/assets/e917dbe5-0bee-4948-9707-9c0d94517ee4" width="42%" style="margin:20px;">
 </p>
